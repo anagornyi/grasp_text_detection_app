@@ -1,0 +1,14 @@
+*.so
+gen
+obj
+libs
+assets
+bin
+.project
+.classpath
+.externalToolBuilders
+.DS_Store
+*~
+jni/.cproject
+jni/.project
+jni/.DS_Store
